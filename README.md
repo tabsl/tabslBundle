@@ -1,0 +1,2 @@
+# tabslBundle
+OXID Artikelbundle-Modul
